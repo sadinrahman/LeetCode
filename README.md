@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sadinrahman/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/sadinrahman/LeetCode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
 |  |
