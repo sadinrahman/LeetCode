@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sadinrahman/LeetCode/tree/master/0069-sqrtx) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
