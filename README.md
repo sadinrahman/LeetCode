@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sadinrahman/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sadinrahman/LeetCode/tree/master/0415-add-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sadinrahman/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sadinrahman/LeetCode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/sadinrahman/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -92,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sadinrahman/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
