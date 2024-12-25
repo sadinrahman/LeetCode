@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sadinrahman/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sadinrahman/LeetCode/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/sadinrahman/LeetCode/tree/master/1013-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -105,8 +106,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sadinrahman/LeetCode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/sadinrahman/LeetCode/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sadinrahman/LeetCode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sadinrahman/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sadinrahman/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
