@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sadinrahman/LeetCode/tree/master/0414-third-maximum-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
