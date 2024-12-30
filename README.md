@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sadinrahman/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sadinrahman/LeetCode/tree/master/0414-third-maximum-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Prefix Sum
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sadinrahman/LeetCode/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
