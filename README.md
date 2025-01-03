@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sadinrahman/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sadinrahman/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sadinrahman/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/sadinrahman/LeetCode/tree/master/0792-binary-search) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadinrahman/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sadinrahman/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sadinrahman/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
