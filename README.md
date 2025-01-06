@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/sadinrahman/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sadinrahman/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2235-capitalize-the-title](https://github.com/sadinrahman/LeetCode/tree/master/2235-capitalize-the-title) |
 ## String Matching
 |  |
 | ------- |
