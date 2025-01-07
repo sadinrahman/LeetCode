@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sadinrahman/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sadinrahman/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadinrahman/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sadinrahman/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/sadinrahman/LeetCode/tree/master/1651-shuffle-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sadinrahman/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sadinrahman/LeetCode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/sadinrahman/LeetCode/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sadinrahman/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/sadinrahman/LeetCode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sadinrahman/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
