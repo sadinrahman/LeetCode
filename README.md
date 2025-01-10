@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/sadinrahman/LeetCode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/sadinrahman/LeetCode/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sadinrahman/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sadinrahman/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sadinrahman/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/sadinrahman/LeetCode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
