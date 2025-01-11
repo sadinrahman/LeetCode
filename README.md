@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sadinrahman/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sadinrahman/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/sadinrahman/LeetCode/tree/master/2634-minimum-common-value) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/sadinrahman/LeetCode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/sadinrahman/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sadinrahman/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sadinrahman/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/sadinrahman/LeetCode/tree/master/2235-capitalize-the-title) |
 ## String Matching
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sadinrahman/LeetCode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sadinrahman/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
 |  |
 | ------- |
