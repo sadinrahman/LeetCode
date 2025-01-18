@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadinrahman/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sadinrahman/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/sadinrahman/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadinrahman/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sadinrahman/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sadinrahman/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sadinrahman/LeetCode/tree/master/0414-third-maximum-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sadinrahman/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sadinrahman/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadinrahman/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/sadinrahman/LeetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sadinrahman/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/sadinrahman/LeetCode/tree/master/2634-minimum-common-value) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sadinrahman/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sadinrahman/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sadinrahman/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadinrahman/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sadinrahman/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sadinrahman/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sadinrahman/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
