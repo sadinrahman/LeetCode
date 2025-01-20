@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/sadinrahman/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sadinrahman/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadinrahman/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/sadinrahman/LeetCode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sadinrahman/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/sadinrahman/LeetCode/tree/master/1448-maximum-69-number) |
 | [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Matrix
 |  |
