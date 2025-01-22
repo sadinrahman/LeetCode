@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sadinrahman/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0897-prime-palindrome](https://github.com/sadinrahman/LeetCode/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/sadinrahman/LeetCode/tree/master/1013-fibonacci-number) |
+| [1260-day-of-the-year](https://github.com/sadinrahman/LeetCode/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/sadinrahman/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sadinrahman/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadinrahman/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/sadinrahman/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/sadinrahman/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1260-day-of-the-year](https://github.com/sadinrahman/LeetCode/tree/master/1260-day-of-the-year) |
 | [1524-string-matching-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/sadinrahman/LeetCode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/sadinrahman/LeetCode/tree/master/1894-merge-strings-alternately) |
