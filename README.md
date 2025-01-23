@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/sadinrahman/LeetCode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/sadinrahman/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sadinrahman/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/sadinrahman/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sadinrahman/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/sadinrahman/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Recursion
 |  |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/sadinrahman/LeetCode/tree/master/1656-count-good-triplets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
