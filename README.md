@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sadinrahman/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/sadinrahman/LeetCode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/sadinrahman/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sadinrahman/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/sadinrahman/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/sadinrahman/LeetCode/tree/master/0782-jewels-and-stones) |
