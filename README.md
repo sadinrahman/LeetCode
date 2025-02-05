@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sadinrahman/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sadinrahman/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sadinrahman/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sadinrahman/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/sadinrahman/LeetCode/tree/master/0520-detect-capital) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadinrahman/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sadinrahman/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sadinrahman/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sadinrahman/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sadinrahman/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sadinrahman/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/sadinrahman/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/sadinrahman/LeetCode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/sadinrahman/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/sadinrahman/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
