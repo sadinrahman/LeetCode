@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sadinrahman/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadinrahman/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sadinrahman/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/sadinrahman/LeetCode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/sadinrahman/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sadinrahman/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sadinrahman/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sadinrahman/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/sadinrahman/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sadinrahman/LeetCode/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/sadinrahman/LeetCode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sadinrahman/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sadinrahman/LeetCode/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/sadinrahman/LeetCode/tree/master/0897-prime-palindrome) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sadinrahman/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sadinrahman/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/sadinrahman/LeetCode/tree/master/1656-count-good-triplets) |
 ## Heap (Priority Queue)
 |  |
