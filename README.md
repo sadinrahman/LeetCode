@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sadinrahman/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sadinrahman/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sadinrahman/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sadinrahman/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sadinrahman/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sadinrahman/LeetCode/tree/master/0204-count-primes) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sadinrahman/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sadinrahman/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/sadinrahman/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sadinrahman/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sadinrahman/LeetCode/tree/master/0242-valid-anagram) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sadinrahman/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sadinrahman/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sadinrahman/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sadinrahman/LeetCode/tree/master/0415-add-strings) |
