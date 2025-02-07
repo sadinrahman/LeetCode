@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/sadinrahman/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3429-special-array-i](https://github.com/sadinrahman/LeetCode/tree/master/3429-special-array-i) |
+| [3533-snake-in-matrix](https://github.com/sadinrahman/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/sadinrahman/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sadinrahman/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/sadinrahman/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3533-snake-in-matrix](https://github.com/sadinrahman/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/sadinrahman/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## String Matching
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/sadinrahman/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3533-snake-in-matrix](https://github.com/sadinrahman/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Recursion
 |  |
 | ------- |
