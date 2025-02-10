@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/sadinrahman/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sadinrahman/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/sadinrahman/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3447-clear-digits](https://github.com/sadinrahman/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sadinrahman/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/sadinrahman/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## String Matching
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/sadinrahman/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3447-clear-digits](https://github.com/sadinrahman/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sadinrahman/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Recursion
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sadinrahman/LeetCode/tree/master/0948-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sadinrahman/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
