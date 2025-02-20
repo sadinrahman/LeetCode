@@ -283,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sadinrahman/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/sadinrahman/LeetCode/tree/master/3447-clear-digits) |
+## Database
+|  |
+| ------- |
+| [3782-find-valid-emails](https://github.com/sadinrahman/LeetCode/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
