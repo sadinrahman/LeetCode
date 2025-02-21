@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/sadinrahman/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3321-type-of-triangle](https://github.com/sadinrahman/LeetCode/tree/master/3321-type-of-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sadinrahman/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/sadinrahman/LeetCode/tree/master/3429-special-array-i) |
 | [3533-snake-in-matrix](https://github.com/sadinrahman/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/sadinrahman/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sadinrahman/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3321-type-of-triangle](https://github.com/sadinrahman/LeetCode/tree/master/3321-type-of-triangle) |
 | [3567-convert-date-to-binary](https://github.com/sadinrahman/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/sadinrahman/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadinrahman/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/sadinrahman/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/sadinrahman/LeetCode/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
