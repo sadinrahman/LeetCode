@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/sadinrahman/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sadinrahman/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/sadinrahman/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sadinrahman/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/sadinrahman/LeetCode/tree/master/1656-count-good-triplets) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/sadinrahman/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
