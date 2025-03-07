@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sadinrahman/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sadinrahman/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sadinrahman/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sadinrahman/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sadinrahman/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/sadinrahman/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/sadinrahman/LeetCode/tree/master/3321-type-of-triangle) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sadinrahman/LeetCode/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/sadinrahman/LeetCode/tree/master/0897-prime-palindrome) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sadinrahman/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sadinrahman/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
