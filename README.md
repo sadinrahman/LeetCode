@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/sadinrahman/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sadinrahman/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/sadinrahman/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sadinrahman/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/sadinrahman/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sadinrahman/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/sadinrahman/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sadinrahman/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sadinrahman/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
