@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/sadinrahman/LeetCode/tree/master/0620-not-boring-movies) |
 | [3782-find-valid-emails](https://github.com/sadinrahman/LeetCode/tree/master/3782-find-valid-emails) |
 ## Union Find
 |  |
