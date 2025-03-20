@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/sadinrahman/LeetCode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/sadinrahman/LeetCode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/sadinrahman/LeetCode/tree/master/1390-average-selling-price) |
 | [3782-find-valid-emails](https://github.com/sadinrahman/LeetCode/tree/master/3782-find-valid-emails) |
 ## Union Find
 |  |
