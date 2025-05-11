@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sadinrahman/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/sadinrahman/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/sadinrahman/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1293-three-consecutive-odds](https://github.com/sadinrahman/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadinrahman/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sadinrahman/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sadinrahman/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
