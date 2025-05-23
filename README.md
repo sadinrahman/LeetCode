@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sadinrahman/LeetCode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/sadinrahman/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/sadinrahman/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sadinrahman/LeetCode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/sadinrahman/LeetCode/tree/master/0577-employee-bonus) |
