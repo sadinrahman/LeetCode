@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sadinrahman/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/sadinrahman/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/sadinrahman/LeetCode/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/sadinrahman/LeetCode/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/sadinrahman/LeetCode/tree/master/1161-project-employees-i) |
 | [1338-queries-quality-and-percentage](https://github.com/sadinrahman/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/sadinrahman/LeetCode/tree/master/1390-average-selling-price) |
